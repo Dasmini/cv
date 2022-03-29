@@ -1,0 +1,39 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: #989ca0;
+}
+body{
+  background-color:#deede6;     /*ffe9cc;*/
+  align-items: center;
+}
+.education:hover{
+  color:#69b088;
+  font-family: "Lucidia Handwriting",cursive;
+  font-size: 15px;
+}
+img{
+  height:350px;
+}
+hr{
+  border-style:dotted none none none;
+  border-color:#E4D1B9;
+  border-width:5px;
+  width:4%;
+}
+h1 , h3{
+  /* color:#ffbd66; */
+  color:#79b995;
+}
+h1{
+  font-family: "Papyrus",fantasy;
+  font-size: 55px;
+}
+h3{
+  font-family: "monaco",monospace;
+}
+table{
+  padding: 5px;
+}
